@@ -1,2 +1,3 @@
-# teaching_demo
-A repo containing materials for a teaching demo.
+# Hunter Teaching Demo
+This repo contains materials related to my teaching demo at Hunter College.
+
